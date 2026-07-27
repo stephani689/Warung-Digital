@@ -4,13 +4,7 @@
     "slug": "warungku-uas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#FAF7F0"
-    },
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -18,19 +12,13 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.stephani.warungkuuas"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.stephani.warungku"
     },
     "extra": {
       "eas": {
         "projectId": "18a55fb0-e480-4ce3-afb9-7ca39004722a"
       }
-    }
+    },
+    "owner": "stephanizz"
   }
 }
