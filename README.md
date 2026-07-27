@@ -12,7 +12,7 @@
 
 | Login Screen | Katalog Screen | Keranjang Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Katalog](assets/screenshots/katalog.png) | ![Keranjang](assets/screenshots/keranjang.png) |
+| ![Login](./assets/login.jpeg) | ![Katalog](./assets/katalog.jpeg) | ![Keranjang](./assets/keranjang.jpeg) |
 
 ---
 
